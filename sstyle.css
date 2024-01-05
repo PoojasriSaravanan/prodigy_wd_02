@@ -1,0 +1,58 @@
+
+    body {
+        background-color: rgb(247, 247, 247);
+        background-size: cover;
+     font-family: 'Roboto mono', monospace;
+      text-align: center;
+      margin: 40px;
+    }
+   
+
+    #stopwatch {
+      font-size: 100px;
+      margin-bottom: 20px;
+      color: black;
+    }
+
+    #controls {
+      margin-top: 20px;
+    }
+  
+  .start{
+      font-size: 2em;
+      margin: 0 10px;
+      padding: 10px 20px;
+      cursor: pointer;
+      background-color:rgb(71, 197, 214);
+      border-radius: 6px;
+    
+    }
+    .reset{
+      font-size: 2em;
+      margin: 0 10px;
+      padding: 10px 20px;
+      cursor: pointer;
+      background-color:greenyellow ;
+      border-radius: 6px;
+    
+    }
+    .pause{
+      font-size: 2em;
+      margin: 0 10px;
+      padding: 10px 20px;
+      cursor: pointer;
+      background-color:yellow;
+      border-radius: 6px;
+    
+    }
+    #laps {
+      margin-top: 20px;
+      text-align: center;
+      padding-top: 20px;
+      color: white;
+    }
+    .sw{
+        text-align: center;
+        padding-top: 150px;
+    }
+    
